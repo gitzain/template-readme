@@ -1,7 +1,7 @@
 # template-readme
 A simple README.md template for your github projects.
 
-## Table of content
+## Table of Contents
 
 - [Motivation](#motivation)
 - [Screenshots](#screenshots)
