@@ -4,7 +4,7 @@ A simple README.md template for your github projects.
 ## Table of Contents
 - [Motivation](#bulb-motivation)
 - [Screenshots](#computer-screenshots)
-- [Installation & Usage](#rocket-installation-and-usage)
+- [Installation & Usage](#rocket-installation--usage)
   - [Installation](#installation)
   - [Usage](#usage)
 - [Contributing](#handshake-contributing)
