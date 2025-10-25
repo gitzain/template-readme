@@ -2,15 +2,15 @@
 A simple README.md template for your github projects.
 
 ## Table of Contents
-- [Motivation](#-bulb-motivation)
-- [Screenshots](#screenshots)
-- [Installation \& Usage](#installation--usage)
+- [Motivation](#bulb-motivation)
+- [Screenshots](#computer-screenshots)
+- [Installation & Usage](#rocket-installation-and-usage)
   - [Installation](#installation)
   - [Usage](#usage)
-- [Contributing](#contributing)
-- [History](#history)
-- [Credits](#credits)
-- [License](#license)
+- [Contributing](#handshake-contributing)
+- [History](#scroll-history)
+- [Credits](#clap-credits)
+- [License](#receipt-license)
 
 ## :bulb: Motivation
 TODO: Describe why this project exists
